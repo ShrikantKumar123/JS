@@ -236,4 +236,4 @@ function updatePosition() {
         return false;
     }
 }
-module.exports = whereabouts;
+
